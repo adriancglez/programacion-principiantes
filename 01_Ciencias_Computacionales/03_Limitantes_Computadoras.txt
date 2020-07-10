@@ -1,0 +1,11 @@
+Las computadoras nunca se van equivocar en cálculos y operaciones matemáticas.
+
+Sólo están limitadas a seguir órdenes y tareas, es decir, no pueden tomar 
+decisiones propias, nosotros somos quienes decimos a la computadora qué hacer.
+
+Nosotros le damos instrucciones a una computadora a través de un lenguaje de 
+alto nivel, que es un lenguaje muy parecido al inglés y al español, pero mas 
+parecido al inglés, porque los comandos utilizados mayormente están en inglés.
+
+Este lenguaje de alto nivel, será traducido a lenguaje de bajo nivel, que es
+más directo a las computadoras y no se parece a como hablan los seres humanos.
