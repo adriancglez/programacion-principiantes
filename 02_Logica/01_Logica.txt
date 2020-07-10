@@ -1,0 +1,17 @@
+Un algoritmo, es un proceso para resolver un problema, por lo
+general, es un proceso ordenado y secuencial.
+
+Para trabajar con datos, primeramente tendríamos la declaración
+del espacio en memoria donde vamos a almacenarlos, y ese espacio
+en memoria se conoce como una variable.
+
+Una variable es el espacio en memoria donde podemos almacenar datos,
+y estos datos pueden cambiar en un futuro.
+
+Una palabra reservada es una palabra que no podemos utilizar fuera
+de ese contexto.
+
+Para declarar una variable en JS, usamos la palabra reservada let, seguido
+de un nombre,, valor y termina en punto y coma ;
+
+    let a = 10;
