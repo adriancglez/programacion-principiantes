@@ -1,0 +1,5 @@
+Muchos piensan que una computadora, es únicamente un dispositivo que se dedica a correr código.
+
+Un lenguaje de programación es la forma de decirle a una computadora ¿qué hacer? y ¿cómo hacerlo?,
+es por así decirlo, un lenguaje intermedio que nosotros entendemos y que la computadora eventualmente
+también, que nos ayuda a transmitirle órdenes a las computadoras.
