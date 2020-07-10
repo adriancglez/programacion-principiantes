@@ -1,0 +1,8 @@
+El hardware es la parte física de la computadora, es todo lo que podemos tocar
+
+El software es la parte que no podemos tocar, es por decirlo así, los pensamientos
+o procesos que la computadora realiza.
+
+Es la parte lógica que hace una tarea.
+
+El hardware y el software siempre van de la mano.

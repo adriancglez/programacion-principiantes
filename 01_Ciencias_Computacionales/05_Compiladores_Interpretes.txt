@@ -1,0 +1,6 @@
+Un compilador es un programa que toma todo el código que
+escribimos y lo traduce a un lenguaje de máquina.
+
+Un intérprete, toma todo nuestro código, todas las líneas
+de código y básicamente las va a traducir al lenguaje de
+máquina línea por línea en el momento en que sea necesario.

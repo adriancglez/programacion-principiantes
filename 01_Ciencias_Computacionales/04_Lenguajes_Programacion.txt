@@ -1,0 +1,12 @@
+Existen cientos de lenguajes de programación, cada uno de ellos está
+orientado a algo en particular.
+
+Las plataformas, son los lugares a los cuales vamos a desplegar nuestra
+aplicación.
+
+Un servidor es una computadora con acceso restringido y centralizado.
+
+Un framework o marco de trabajo, es un conjunto de reglas y normas para 
+la correcta utilización de algún tipo de lenguaje.
+
+Un cliente, es una computadora o dispositivo que ejecuta el programa.
